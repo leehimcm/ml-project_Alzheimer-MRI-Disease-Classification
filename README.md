@@ -1,9 +1,9 @@
 # 알츠하이머 엑스레이 이미지 분류 프로젝트
 ## 👩‍💻 팀원
-|<img src="https://github.com/user-attachments/assets/a5aa9e3f-ca78-4371-8f54-03605c523540" width="170" />|<img src="https://github.com/user-attachments/assets/a5aa9e3f-ca78-4371-8f54-03605c523540" width="170" />|<img src="https://github.com/user-attachments/assets/a5aa9e3f-ca78-4371-8f54-03605c523540" width="170"/>|
+|<img src="https://github.com/user-attachments/assets/a5aa9e3f-ca78-4371-8f54-03605c523540" width="170" />|<img src="https://github.com/user-attachments/assets/a5aa9e3f-ca78-4371-8f54-03605c523540" width="170" />|<img src="https://github.com/user-attachments/assets/a5aa9e3f-ca78-4371-8f54-03605c523540" width="170" />|
 |:---------:|:---------:|:---------:|
 |[김수연](https://github.com/sooonsyk)|[박인애](https://github.com/inaemon)|[이혜인](https://github.com/leehimcm)|
-| `MobileNet, LeNet(custom)` | `InceptionV3, ResNet34(custom)` | `VGG16, ResNet50` | </br>
+| `MobileNet, LeNet` | `InceptionV3, ResNet34` | `VGG16, ResNet50` | </br>
 
 <br/>
 
